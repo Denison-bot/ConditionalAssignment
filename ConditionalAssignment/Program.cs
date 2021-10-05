@@ -105,7 +105,7 @@ namespace ConditionalAssignment
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Call of Halo: Combat Eternal, New Order (with Knuckles)");
+            Console.WriteLine("Call of Halo: Combat Eternal, New Leaf (with Knuckles)");
             Console.WriteLine("released by Ubisoft Montreal");
             Console.ResetColor();
             Console.WriteLine(" ");
